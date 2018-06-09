@@ -1,4 +1,4 @@
-###Hardware shared under the Creative Commons CC BY-NC-SA (4.0) license:
+### Hardware shared under the Creative Commons CC BY-NC-SA (4.0) license:
 
 You are free to:
 
